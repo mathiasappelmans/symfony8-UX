@@ -1,0 +1,4 @@
+- https://symfony.com/bundles/ux-map/current/index.html
+- composer require symfony/ux-map
+- composer require symfony/ux-leaflet-map
+- php bin/console make:controller Map
